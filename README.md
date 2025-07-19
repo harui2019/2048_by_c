@@ -10,6 +10,7 @@ Even earlier than I create my GitHub Account.
 It's a 2048 made by C with function programming.
 
 If you want to do some practice on programming, this might can help you to make the first step beyond "hello world".
+
 Also, you shoild prepare some C complier in your computer. I made this with Visual Studio (not VSCode) on Windows 10 Laptop.
 For macOS or Linux, you can consider other complier like gcc or something else.
-It should be not different among these compliers.
+It should be no difference among these compliers.
